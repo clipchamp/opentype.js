@@ -1,5 +1,5 @@
 {
-  "name": "opentype.js",
+  "name": "@clipchamp/opentype.js",
   "description": "OpenType font parser",
   "version": "1.3.4",
   "author": {
