@@ -1,7 +1,7 @@
 {
   "name": "@clipchamp/opentype.js",
   "description": "OpenType font parser",
-  "version": "1.4.1",
+  "version": "1.5.0",
   "types": "./types/index.d.ts",
   "author": {
     "name": "Frederik De Bleser",
