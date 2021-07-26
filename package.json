@@ -41,7 +41,8 @@
     "README.md",
     "bin",
     "dist",
-    "src"
+    "src",
+    "types"
   ],
   "engines": {
     "node": ">= 8.0.0"
